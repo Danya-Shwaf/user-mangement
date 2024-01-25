@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"eamodio.gitlens",
+		"naumovs.color-highlight",
+		"streetsidesoftware.code-spell-checker"
+	]
+}
